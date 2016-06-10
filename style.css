@@ -1,0 +1,20 @@
+body, button, input, textarea {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+}
+body {
+  margin-top: 2em;
+  margin-left: 3em;
+}
+input {
+  width: 29.1em;
+}
+button {
+  margin-top: 0.3em;
+}
+footer {
+  margin-top: 3em;
+}
+h1 {
+  font-size: 1.7em;
+}
