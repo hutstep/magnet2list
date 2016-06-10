@@ -8,6 +8,7 @@ body {
 }
 input {
   width: 29.1em;
+  padding: 0.2em 0.1em 0.2em 0.1em;
 }
 button {
   margin-top: 0.3em;
@@ -17,4 +18,7 @@ footer {
 }
 h1 {
   font-size: 1.7em;
+}
+textarea {
+  padding-top: 7px;
 }
