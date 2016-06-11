@@ -1,5 +1,7 @@
 # magnet2list
 magnet2list is a small tool which converts a magnet link to a tracker list.
+
+Demo: https://hutstep.github.io/magnet2list/
 ## Why?
 The Transmission bittorrent client (maybe others too) doesn't automatically add the additional trackers (if any) from a magnet link to an already existing torrent. You just get the message `Couldn't add duplicate torrent`, and you have to add the additional trackers manually.
 That's why I coded magnet2list, to easyly extract the trackers from a magnet link.
