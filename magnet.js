@@ -1,3 +1,9 @@
+/*!
+magnet2list (https://github.com/hutstep/magnet2list)
+Copyright 2016 hutstep (https://github.com/hutstep)
+Licensed under the MIT License.
+(https://github.com/hutstep/magnet2list/blob/gh-pages/LICENSE)
+*/
 var testLink = "magnet:?xt=urn:btih:4344503b7e797ebf31582327a5baae35b11bda01&" +
                "dn=ubuntu-16.04-desktop-amd64.iso&tr=http%3A%2F%2Ftorrent.ubu" +
                "ntu.com%3A6969%2Fannounce&tr=http%3A%2F%2Fipv6.torrent.ubuntu" +

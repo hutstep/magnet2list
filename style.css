@@ -1,3 +1,9 @@
+/*!
+magnet2list (https://github.com/hutstep/magnet2list)
+Copyright 2016 hutstep (https://github.com/hutstep)
+Licensed under the MIT License.
+(https://github.com/hutstep/magnet2list/blob/gh-pages/LICENSE)
+*/
 body, button, input, textarea {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
@@ -19,6 +25,13 @@ footer {
 h1 {
   font-size: 1.7em;
 }
+h2 {
+  font-size: 1.2em;
+  color: red;
+}
 textarea {
   padding-top: 7px;
+}
+a:link, a:visited, a:active {
+  color: red;
 }
